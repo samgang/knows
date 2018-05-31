@@ -1,0 +1,140 @@
+根据https://mp.weixin.qq.com/s/OloZhn2pwfIrOQit_8jefA摘录
+
+Spring Boot
+https://github.com/spring-projects/spring-boot
+
+Alibaba Dubbo
+https://github.com/alibaba/dubbo
+
+Google gRPC
+https://github.com/grpc/grpc
+
+NetflixOSS Eureka
+https://github.com/Netflix/eureka
+
+Hashicorp Consul
+https://github.com/hashicorp/consul
+
+NetflixOSS Zuul
+https://github.com/Netflix/zuul
+
+Kong
+https://github.com/Kong/kong
+
+Spring Cloud Config
+https://github.com/spring-cloud/spring-cloud-config
+
+CTrip Apollo
+https://github.com/ctripcorp/apollo
+
+ElasticSearch
+https://github.com/elastic/elasticsearch
+
+Yelp Elastalert
+https://github.com/Yelp/elastalert
+
+Dianping CAT
+https://github.com/dianping/cat
+
+Zipkin
+https://github.com/openzipkin/zipkin
+
+Naver Pinpoint
+https://github.com/naver/pinpoint
+
+OpenTSDB
+https://github.com/OpenTSDB/opentsdb
+
+KairosDB
+https://github.com/kairosdb/kairosdb
+
+Argus
+https://github.com/salesforce/Argus
+
+InfluxDB
+https://github.com/influxdata/influxdb
+
+Prometheus
+https://github.com/prometheus/prometheus
+
+Grafana
+https://github.com/grafana/grafana
+
+Sensu
+https://github.com/sensu/sensu
+
+Esty 411
+https://github.com/etsy/411
+
+Zalando ZMon
+https://github.com/zalando/zmon
+
+NetflixOSS Hystrix
+https://github.com/Netflix/Hystrix
+
+Nginx
+https://github.com/nginx/nginx
+
+Apache Kafka
+https://github.com/apache/kafka
+
+Allegro Hermes
+https://github.com/allegro/hermes
+
+Apache Rocketmq
+https://github.com/apache/rocketmq
+
+Rabbitmq
+https://github.com/rabbitmq/rabbitmq-server
+
+Sohutv CacheCloud
+https://github.com/sohutv/cachecloud
+
+Twitter twemproxy
+https://github.com/twitter/twemproxy
+
+CodisLab codis
+https://github.com/CodisLabs/codis
+
+Dangdang Sharding-jdbc
+https://github.com/shardingjdbc/sharding-jdbc
+
+MyCAT
+https://github.com/MyCATApache/Mycat-Server
+
+Xxl-job
+https://github.com/xuxueli/xxl-job
+
+Dangdang elastic-job
+https://github.com/elasticjob/elastic-job-lite
+
+Apereo CAS
+https://github.com/apereo/cas
+
+JBoss keycloak
+https://github.com/keycloak/keycloak
+
+Spring cloud security
+https://github.com/spring-cloud/spring-cloud-security
+
+OpenID-Connect-Java-Spring-Server
+https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server
+
+Google Kubernetes
+https://github.com/kubernetes/kubernetes
+
+Apache Mesos
+https://github.com/apache/mesos
+
+Vmware Harbor
+https://github.com/vmware/harbor
+
+Netflix Spinnaker
+https://github.com/spinnaker/spinnaker
+
+Microservices in Practice – Key Architecture Concepts of an MSA
+https://wso2.com/whitepapers/microservices-in-practice-key-architectural-concepts-of-an-msa/
+
+微服务的设计与生态系统
+http://servicecomb.incubator.apache.org/assets/slides/20170619/MSAPrinciple&EcoSystem.pdf
+
