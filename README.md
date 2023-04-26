@@ -19,3 +19,9 @@ slave-read-only yes
   - 无颜色标注输出结果，
 
 [awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub
+
+## 图片访问
+
+1. https://raw.githubusercontent.com/[username]/[仓库名]/[分支]
+2. https://cdn.jsdelivr.net/gh/[username]/[仓库名]/[分支]
+2. 
