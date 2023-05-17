@@ -25,3 +25,8 @@ slave-read-only yes
 1. https://raw.githubusercontent.com/[username]/[仓库名]/[分支]
 2. https://cdn.jsdelivr.net/gh/[username]/[仓库名]/[分支]
 2. 
+
+## 加速
+- https://ghproxy.com/
+- https://dockerproxy.com/
+- 
